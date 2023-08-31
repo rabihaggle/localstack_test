@@ -5,7 +5,7 @@ recursive:
   path: examples
 
 output:
-  file: "README.md"
+  file: "README_2.md"
   mode: replace
 
 settings:
