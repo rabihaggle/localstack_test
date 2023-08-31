@@ -35,3 +35,4 @@ terraform.rc
 volume/*
 .terraform.lock.hcl
 volume/cache/machine.json
+workspaces/nabihaggle.yaml
