@@ -1,22 +1,20 @@
 ## Notes
 Do you need to execute this proyect:
 
-n/
-    - Docker -> https://docs.docker.com/engine/install/ 
-    - Docker Compose -> https://docs.docker.com/compose/install/ 
-    - terraform -> https://developer.hashicorp.com/terraform/tutorials/aws-get-started/install-cli
-    - terraform_local -> https://docs.localstack.cloud/user-guide/integrations/terraform/ #using-the-tflocal-script 
-n/
+    - [Docker](https://docs.docker.com/engine/install/) 
+    - [Docker Compose] (https://docs.docker.com/compose/install/) 
+    - [terraform](https://developer.hashicorp.com/terraform/tutorials/aws-get-started/install-cli)
+    - [terraform_local](https://docs.localstack.cloud/user-guide/integrations/terraform/ #using-the-tflocal-script)
+
 
 In compose.yml contains the localstack to develop or study
-How to run -> 
+How to run 
 
 ``` docker compose up -d ``` 
 
-and your new friends ->
+and your new friends
 
 ``` tflocal init -upgrade ```
-
 
 ``` tflocal plan ``` 
 
@@ -56,3 +54,8 @@ No inputs.
 |------|-------------|
 | <a name="output_project_settings"></a> [project\_settings](#output\_project\_settings) | n/a |
 <!-- END_TF_DOCS -->
+
+
+## 🔗 Links
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolas-abihaggle/)
