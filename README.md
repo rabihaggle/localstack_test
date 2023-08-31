@@ -1,11 +1,13 @@
 ## Notes
 Do you need to execute this proyect:
 
-    - Docker -> https://docs.docker.com/engine/install/ n/
-    - Docker Compose -> https://docs.docker.com/compose/install/ n/
-    - terraform -> https://developer.hashicorp.com/terraform/tutorials/aws-get-started/ n/install-cli
-    - terraform_local -> https://docs.localstack.cloud/user-guide/integrations/terraform/ #using-the-tflocal-script n/
 n/
+    - Docker -> https://docs.docker.com/engine/install/ 
+    - Docker Compose -> https://docs.docker.com/compose/install/ 
+    - terraform -> https://developer.hashicorp.com/terraform/tutorials/aws-get-started/install-cli
+    - terraform_local -> https://docs.localstack.cloud/user-guide/integrations/terraform/ #using-the-tflocal-script 
+n/
+
 In compose.yml contains the localstack to develop or study
 How to run -> 
 
