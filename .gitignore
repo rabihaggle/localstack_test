@@ -34,3 +34,4 @@ override.tf.json
 terraform.rc
 volume/*
 .terraform.lock.hcl
+volume/cache/machine.json
