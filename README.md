@@ -35,14 +35,17 @@ and your new friends
 
 ## Modules
 
-No modules.
+| Name | Source | Version |
+|------|--------|---------|
+| <a name="module_vpc"></a> [vpc](#module\_vpc) | terraform-aws-modules/vpc/aws | ~>5.1.1 |
 
 ## Resources
 
 | Name | Type |
 |------|------|
 | [aws_s3_bucket.test-bucket](https://registry.terraform.io/providers/hashicorp/aws/latest/docs/resources/s3_bucket) | resource |
-| [aws_vpc.example](https://registry.terraform.io/providers/hashicorp/aws/latest/docs/resources/vpc) | resource |
+| [aws_availability_zones.this](https://registry.terraform.io/providers/hashicorp/aws/latest/docs/data-sources/availability_zones) | data source |
+| [aws_region.current](https://registry.terraform.io/providers/hashicorp/aws/latest/docs/data-sources/region) | data source |
 
 ## Inputs
 
@@ -52,6 +55,8 @@ No inputs.
 
 | Name | Description |
 |------|-------------|
+| <a name="output_aws_availability_zones"></a> [aws\_availability\_zones](#output\_aws\_availability\_zones) | n/a |
+| <a name="output_aws_region"></a> [aws\_region](#output\_aws\_region) | n/a |
 | <a name="output_project_settings"></a> [project\_settings](#output\_project\_settings) | n/a |
 <!-- END_TF_DOCS -->
 
